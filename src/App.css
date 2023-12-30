@@ -18,6 +18,10 @@
   display: flex;
   justify-content: space-around;
 }
+.inputdata>img{
+  width: 50%;
+  height: 100px;
+}
 input{
   width: 50rem;
   background-color: transparent;
